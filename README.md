@@ -25,7 +25,9 @@ The main purpose of the analysis is to
 # Summary
 A new query was written to calculate the number of titles from the mentorship eligibility, and it appears the most heavilty affected positions are "Senior Staff" and "Engineers". Thus, is it crucial that the company and began looking into future replacement as early as possible, as engineering positions will need the necessary time to train and develop. 
 
-Within the mentor-eligible category, there are 
+![mentorship_eligibility](mentorship_eligibility.PNG)
+
+Within the mentor-eligible category, there are 569 Senior Staff, 501 Engineers, 169 Senior Engineers, 155 Staff, 78 Assistant Engineers and 77 Technique Leaders to assist with the mentorship program. The mentor workforce would be sufficient enough to assist with the hiring process.
 
 
 
