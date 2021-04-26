@@ -11,7 +11,16 @@ The main purpose of the analysis is to
 
 ## Points
 1. 41,000+ opening spots in the company
-2. 
+
 ![unique_title](unique_title.PNG)
 
-    - As we can see from the previous chart, there are going to be over 41,000 sports open once the employees retire in the company. This would potentially be a problem for the company, as the company would need its    HR team's best effort to fill in those spots and keep the management structure.  
+2. The opening spots count for over 40% of the company's workforce
+
+3. Management positions are heavily impacted 
+
+4. It is necessary for the HR team to fill in the missing positions as early as possible
+
+- As we can see from the previous chart, there are going to be over 41,000 sports open once the employees retire in the company. This would potentially be a problem for the company, as the company would need its    HR team's best effort to fill in those spots and keep the management structure.  
+
+
+
